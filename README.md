@@ -1,2 +1,2 @@
 # gravity
-Think the minigame in Ender's Game
+Think the battle room training minigame in Ender's Game
